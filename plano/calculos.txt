@@ -75,6 +75,13 @@ angulo traste 0
 358,89
 1,15
 
+alto: 32,417 in
+ancho: 12,668 in
+
+jack hole angulo
+jack 324,93
+borde 54,15
+
 
 
 
