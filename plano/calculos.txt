@@ -80,9 +80,10 @@ ancho: 12,668 in
 
 jack hole angulo
 jack 324,93
-borde 54,15
+borde 54,93 - 234,93
 
-
+24 - 33,875
+0,557 - 1,112 - 5,5
 
 
 
