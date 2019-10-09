@@ -87,8 +87,12 @@ borde 54,93 - 234,93
 
 
 
-
-
+ensanchar pared del jack
+verificar que entra el pote en el agujero
+verificacion altura 1era y septima
+arandelas 14mm
+agujeros de tapa 7mm
+plantillas diapason y mango
 
 
 
