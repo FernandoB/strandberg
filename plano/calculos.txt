@@ -93,6 +93,7 @@ verificacion altura 1era y septima
 arandelas 14mm
 agujeros de tapa 7mm
 plantillas diapason y mango
+marcas diapason
 
 
 37,44
@@ -100,7 +101,7 @@ plantillas diapason y mango
 31,467 - 16,935 = 14,532 -> 24,201
 -4,738 - 3,176 = -7,914 ||| 7,914 / 2 = 3,957 ||| 3,176 - 3,957 = -0,781
 
-6,09
+6,09 + 90 = 96,09
 
 
 
