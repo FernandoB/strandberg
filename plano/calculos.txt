@@ -115,6 +115,8 @@ marcas diapason
 270,04 grados
 1,448 alto jescar
 
+159,43 %
+
 
 
 
