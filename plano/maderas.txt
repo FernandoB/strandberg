@@ -15,3 +15,8 @@ Tapa
 V . Flame maple
 V . Quilted maple
 . Poplar Blur
+
+
+diapason
+545mm
+68mm
