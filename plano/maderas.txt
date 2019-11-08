@@ -17,6 +17,15 @@ V . Quilted maple
 . Poplar Blur
 
 
+
+laminado
+ancho 3mm cada barrita
+21mm separacion en el medio
+
 diapason
 545mm
 68mm
+
+mango
+68mm
+547mm
