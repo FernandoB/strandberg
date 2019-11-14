@@ -1,14 +1,24 @@
 
 > de afuera <
 
+- pedido 1
 8 x tuner - 360 us
 nut for 7 string - 10 us
 shipping - 5 us
 
+- pedido 2
 8 x string lock - 120 us
 shipping - 5 us
 
-courier - 238.22 us
+courier (atucasa) - 238.22 us
+
+- pedido 3
+2 x lace alumitone DB7 - 214.2 us
+shipping - 10,86 us
+
+- pedido 4
+2 x 25 piece set, jescar fret wire 57110 - 36 us
+shipping - 9,70 us
 
 
 > maderas <
@@ -16,3 +26,6 @@ courier - 238.22 us
 diapason ebano MG para bajo - 90 us
 mango maple roasted birdseye - 65 us
 diapason wenge para laminado de mango - 1800 p (us 63 p) - 29 us
+
+> total <
+1,192.98 us
