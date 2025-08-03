@@ -10,3 +10,9 @@ Built as a personal project for educational purposes only and non commercial use
 Swamp Ash. Solid maple top master grade flame.
 #### Neck
 Five pieces. Roasted maple and guayacan.
+Replica of Strandberg Profile
+#### Fretboard
+Ebony
+Jescar Fret Wire 57110
+20” Fretboard Radius
+24 Frets
