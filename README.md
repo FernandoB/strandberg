@@ -1,6 +1,14 @@
 Custom handmade replica of a Strandberg Boden electric guitar.<br>
 Built as a personal project for educational purposes only and non commercial use.
 
+![20250716_083230](https://github.com/user-attachments/assets/e720500b-76f1-46b1-92f5-bd2604e0d023)
+
+![20250716_083235](https://github.com/user-attachments/assets/44214c56-a968-48f1-80a2-2996c4eda248)
+
+![20250716_083248](https://github.com/user-attachments/assets/ab77b63c-9a77-4d25-9342-0ab7c579de06)
+
+![20250716_083258](https://github.com/user-attachments/assets/8df99ae5-ea6b-4e48-92a8-972529c9a267)
+
 ![20240910_213141](https://github.com/user-attachments/assets/9dda5cfc-b580-4012-9e0f-149fbce3fa4e)
 
 ![20240806_220030](https://github.com/user-attachments/assets/04120ceb-cf90-4c60-bdab-d29d85660b55)
