@@ -14,7 +14,7 @@ Built as a personal project for educational purposes only and non commercial use
 - Approximate Weight: 2.4kg
 #### Body
 - Swamp Ash
-- Solid maple top master grade flame
+- Solid maple top, master grade flame
 #### Neck
 - Five pieces, roasted maple and guayacan
 - Replica of Strandberg profile
