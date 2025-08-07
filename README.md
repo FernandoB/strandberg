@@ -1,4 +1,4 @@
-Custom handmade replica of a Strandberg Boden electric guitar.<br>
+Custom handmade replica of a Strandberg Boden 7 strings electric guitar.<br>
 Built as a personal project for educational purposes only and non commercial use.
 
 ![20250716_083230](https://github.com/user-attachments/assets/e720500b-76f1-46b1-92f5-bd2604e0d023)
@@ -12,6 +12,14 @@ Built as a personal project for educational purposes only and non commercial use
 ![20240910_213141](https://github.com/user-attachments/assets/9dda5cfc-b580-4012-9e0f-149fbce3fa4e)
 
 ![20240806_220030](https://github.com/user-attachments/assets/04120ceb-cf90-4c60-bdab-d29d85660b55)
+
+### Plans
+
+https://github.com/FernandoB/strandberg/blob/master/plano/plano.ai
+
+### Contact
+
+raulfernandoborgesnogueira@gmail.com
 
 ### Specs
 #### General
